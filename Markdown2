@@ -1,0 +1,20 @@
+What it dose:
+HTTP (HyperText Transfer Protocol): This is used for accessing websites. When you visit a webpage, your browser uses HTTP to ask the server for the site's content.
+HTTPS (Secure HTTP): Similar to HTTP but adds security by encrypting the data, making it safe for activities like online shopping or banking.
+SFTP (Secure File Transfer Protocol): This helps securely upload or download files between computers, often used for website management or sharing large files.
+IP (Internet Protocol): This sets the rules for how data is packaged and sent across the internet. Think of it as how a letter is addressed and mailed.
+IPv6: A newer version of IP with more addresses because the older system (IPv4) is running out due to the growing number of devices online.
+IMAP (Internet Message Access Protocol): This handles email. It lets you view your emails on different devices because the emails stay on the server rather than being downloaded.
+
+Why is it important:
+Everyday Use: Whether you're browsing websites, sending emails, or streaming videos, these components and protocols ensure everything runs smoothly.
+Security: Knowing about secure protocols like HTTPS and SFTP helps protect your personal information from being stolen or misused.
+Troubleshooting: If something goes wrong (like a website not loading or an email not sending), understanding these basics can help you identify and fix the problem.
+Efficiency: Businesses rely on these systems to share data, collaborate, and operate globally, so knowing how they work ensures smoother operations.
+Future-Proofing: With growing technologies like IPv6, understanding how the internet evolves helps you stay updated and prepared for changes.
+Digital Literacy: As the world becomes more connected, having a grasp of these basics is essential to navigate the digital age confidently and responsibly.
+
+real world examples:
+Example Youtube:When you search for something, your browser uses HTTP or HTTPS to request and load web pages. HTTPS ensures your data, like passwords, remains secure.
+Example: Gmail:These platforms use protocols like SFTP to securely upload or download files, ensuring your data isn't intercepted.
+Example: Fortnite, Minecraft:Gaming servers use IP and IPv6 for connecting players globally, and HTTPS for secure logins and transactions.
